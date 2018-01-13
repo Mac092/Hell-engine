@@ -11,6 +11,10 @@ Information about __HellEngine__ will be added here in due time.
 * Daniel Reyes ([Winour](https://github.com/Winour) at https://github.com/Winour)
 * Mario Rodríguez ([Mac092](https://github.com/Mac092) at https://github.com/Mac092)
 
+### AppVeyor
+https://ci.appveyor.com/project/Mac092/hell-engine-m06ap/branch/develop
+
+
 ### License
 The project is licensed under the MIT License.  
 Find the stand-alone license document at [https://github.com/BrunoAOR/HellEngine/blob/master/LICENSE](https://github.com/BrunoAOR/Space-Harrier-Clone/blob/master/LICENSE).
