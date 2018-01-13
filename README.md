@@ -12,7 +12,7 @@ Information about __HellEngine__ will be added here in due time.
 * Mario Rodríguez ([Mac092](https://github.com/Mac092) at https://github.com/Mac092)
 
 ### AppVeyor
-https://ci.appveyor.com/api/projects/status/github/Mac092/Hell-engine
+![Image of Yaktocat](https://ci.appveyor.com/api/projects/status/github/Mac092/Hell-engine)
 
 
 ### License
