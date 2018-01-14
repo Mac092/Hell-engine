@@ -1,0 +1,10 @@
+version: 1.0.{build}
+image: Visual Studio 2017
+configuration:
+- Release
+platform: x86
+build:
+  verbosity: minimal
+artifacts:
+  path: ..\Release\HellEngine.exe
+  name: Executable
